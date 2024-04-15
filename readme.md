@@ -46,7 +46,7 @@ The trained model is tested with new data to predict gender based on voice chara
 10. Test the model with new data to predict gender based on voice characteristics.
 
 ### License
-This project is licensed under the MIT [License](https://github.com/Rajendran2201/patient-chatting-bot-using-LLM/blob/main/LICENSE)
+This project is licensed under the MIT [License](https://github.com/Rajendran2201/Gender-Recognition-using-Voice/blob/main/LICENSE)
 
 ### Contribution
 Contributions are welcome! Please feel free to submit any enhancements or bug fixes.
